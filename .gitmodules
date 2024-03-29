@@ -1,0 +1,15 @@
+[submodule "DSU"]
+	path = DSU
+	url = https://github.com/DSU-DefSec/ace
+[submodule "Stanford"]
+	path = Stanford
+	url = https://github.com/applied-cyber/ccdc
+[submodule "NevadaReno"]
+	path = NevadaReno
+	url = https://github.com/NevadaCyberClub/CCDC
+[submodule "UCI"]
+	path = UCI
+	url = https://github.com/UCI-CCDC/CCDC
+[submodule "USC"]
+	path = USC
+	url = https://github.com/USC-CTF-Team/USC-CCDC-Tools
